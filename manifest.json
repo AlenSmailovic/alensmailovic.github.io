@@ -1,6 +1,6 @@
 {
-    "name": "trail_pace_strategy",
-    "short_name": "trail_pace_strategy",
+    "name": "runex",
+    "short_name": "runex",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
