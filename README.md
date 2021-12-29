@@ -1,2 +1,1 @@
-# Runex: trail pace strategy tool
-# Developer: Alen Smailović
+### Runex - Trail Pace Strategy Tool
