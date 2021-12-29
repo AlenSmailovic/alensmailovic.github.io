@@ -1,1 +1,2 @@
-# alensmailovic.github.io
+# Runex: trail pace strategy tool
+# Developer: Alen Smailović
